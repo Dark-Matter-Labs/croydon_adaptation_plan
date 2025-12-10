@@ -177,10 +177,6 @@ After running the scripts, you'll have:
 
 This is a TreesAI project for Croydon climate adaptation planning. For questions or contributions, please contact the project team.
 
-## License
-
-[Specify your license here - e.g., MIT, Apache 2.0, or Proprietary]
-
 ## Contact
 
 **Project:** TreesAI Croydon Adaptation Plan  
