@@ -180,8 +180,8 @@ This is a TreesAI project for Croydon climate adaptation planning. For questions
 ## Contact
 
 **Project:** TreesAI Croydon Adaptation Plan  
-**Organization:** [TreesAI / Dark Matter Labs]  
-**Email:** [contact email]
+**Organization:** Dark Matter Labs
+**Email:** treesai@darkmatterlabs.org
 
 ## Acknowledgments
 
